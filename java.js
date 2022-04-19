@@ -5,7 +5,7 @@ function lifeInWeeks(age) {
     var months = years * 12;
     var weeks = years * 52;
     var days = years * 365;
-    var output = "You have " + days + " days, " + weeks + " weeks " + " and " + months + " months left.";
+    var output = "You have " + days + " days, " + weeks + " weeks " + " and " + months + " months left if you live until 90 years old.";
     // console.log(output);
     return output;
     }
